@@ -1,6 +1,7 @@
 <h1 align = "center">
  
-![images (3)](https://github.com/devvrat29/devvrat29/assets/146213827/d7c9d028-1e54-4c8c-bbd1-381af29433a9)
+![a-man-looking-at-a-computer-screen-with-calculations-on-it](https://github.com/devvrat29/devvrat29/assets/146213827/4d19e5bb-06f8-4bc8-990b-e3fafc720455)
+
 
 I'm Devvrat.
 </h1>
