@@ -1,6 +1,6 @@
 <h1 align = "center">
  
-![a-man-looking-at-a-computer-screen-with-calculations-on-it](https://github.com/devvrat29/devvrat29/assets/146213827/4d19e5bb-06f8-4bc8-990b-e3fafc720455)
+![0_cPrF_XMe7U6atYgM](https://github.com/devvrat29/devvrat29/assets/146213827/89cfe24c-b443-4533-a55a-f52303efb0f7)
 
 
 I'm Devvrat.
